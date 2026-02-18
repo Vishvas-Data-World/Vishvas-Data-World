@@ -1,18 +1,16 @@
 # Hi, I'm Vishvajit Nimbalkar
 
-Business & Healthcare Analytics Professional | Data-Driven Decision Making
+Lifesciences & Healthcare Analytics Professional | Data-Driven Decision Making
 
 I specialize in transforming complex healthcare and commercial datasets into actionable insights.  
-My work spans fraud detection (FWA), campaign analytics, sales performance analytics, and structured data pipelines.
+My work spans commercial analytics,claims analytics and sales performance analytics.
 
 ---
 
 ## Professional Background
 
-• Business Analyst – Healthcare Insurance (Fraud, Waste & Abuse Detection)  
-• Commercial Analytics – Pharmaceutical Industry  
-• Experience with large-scale claims data and performance analytics  
-• MBA in Pharmaceutical Management  
+• Business Analyst – Genpact
+• MBA in Pharmaceutical Management from NIPER Hyderabad 
 
 ---
 
@@ -27,25 +25,14 @@ Data Modeling | Dashboarding | Business Intelligence
 ## Featured Projects
 
 • Marketing Campaign Buyer Analytics (Power BI)  
-• Healthcare FWA Detection Analytics  
-• Invoice OCR & Medical Code Mapping Pipeline  
-• SQL-Based Sales & Performance Analytics  
 
 ---
 
-## What I'm Currently Building
-
-• End-to-end analytics pipelines  
-• Fraud detection rule engines  
-• Advanced SQL & analytics engineering  
-• Applied machine learning for healthcare analytics  
-
----
 
 ## Connect With Me
 
-LinkedIn: [Your LinkedIn URL]  
-Email: [Optional]  
+LinkedIn:  http://www.linkedin.com/in/vishvajittn
+Email: vishvajit.niperh2022@gmail.com
 
 ---
 
